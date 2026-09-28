@@ -1,10 +1,5 @@
 # RideFast BI Analysis — Diagnosing Ride Leakage, Promo Waste & Churn
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-EDA-150458?logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-KPI%20queries-4479A1?logo=sqlite&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Dashboard-4285F4?logo=looker&logoColor=white)
-
 End-to-end business intelligence case study on a ride-hailing platform: **120,000 ride requests, 35,000 users, 8,000 drivers and 22,000 support tickets across 12 cities** (Jul 2023 – Jun 2024).
 I cleaned and modelled the data in Python and SQL, built a 4-page Looker Studio dashboard, and wrote a stakeholder report with five problems, their root causes and a prioritised action plan.
 
@@ -122,4 +117,4 @@ Python (pandas, NumPy, Matplotlib) · SQL · Looker Studio · Jupyter
 ## Author
 
 **Md. Rezwan Hossain Turjo** — Product & Data Analytics
-[LinkedIn](https://www.linkedin.com/in/<your-profile>) · [Email](mailto:<your-email>)
+[LinkedIn](https://www.linkedin.com/in/rezwan-hossain-turjo/) · [Email](mdrezwanhossainturjo@gmail.com)
