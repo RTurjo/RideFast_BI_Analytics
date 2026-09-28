@@ -1,0 +1,17 @@
+metric,value
+ride_requests,120000.0
+completed_rides,97638.0
+completion_rate,0.8136
+driver_cancel_rate,0.0926
+avg_wait_min,7.8412
+median_wait_min,7.0
+completed_revenue,3583767.96
+avg_completed_fare,36.7046
+promo_usage_rate,0.1564
+total_promo_discount,179213.63
+registered_users,35000.0
+user_churn_rate,0.7962
+drivers,8000.0
+active_driver_share,0.7806
+support_tickets,22000.0
+ticket_unresolved_rate,0.1786

@@ -1,0 +1,3 @@
+group,requests,completed,completion_rate,driver_cancel_rate,avg_wait_min,avg_user_rating,promo_rate,revenue
+Northgate,9989,7606,0.7614,0.1295,13.3515,3.9678,0.1604,274724.65
+Other 11 cities,110011,90032,0.8184,0.0893,7.3409,4.215,0.156,3309043.31

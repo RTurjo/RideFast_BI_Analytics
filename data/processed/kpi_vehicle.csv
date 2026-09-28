@@ -1,0 +1,4 @@
+vehicle_type,requests,completed,completion_rate,driver_cancel_rate,avg_wait_min,avg_user_rating,promo_rate,revenue
+comfort,35904,29239,0.8144,0.0921,7.8168,4.1999,0.1601,1220627.05
+economy,65966,53681,0.8138,0.0918,7.8448,4.195,0.1539,1508161.58
+xl,18130,14718,0.8118,0.0967,7.8768,4.19,0.1581,854979.33

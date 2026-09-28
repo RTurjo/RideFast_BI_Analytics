@@ -1,0 +1,3 @@
+promo_code_used,requests,completion_rate,avg_discount,avg_completed_fare
+False,101232,0.8136,0.0,38.2035
+True,18768,0.8139,9.5489,28.6236

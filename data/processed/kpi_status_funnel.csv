@@ -1,0 +1,5 @@
+status,requests,avg_wait_min,share
+completed,97638,7.4478,0.8136
+cancelled_driver,11114,10.3289,0.0926
+cancelled_user,8198,8.6403,0.0683
+no_show,3050,9.2246,0.0254
